@@ -1,0 +1,37 @@
+,,,,,,,,,,,
+,Time Series Workbook,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,"8412.0 Mineral and Petroleum Exploration, Australia",,,,,,,,,,
+,"TABLE 3b. MINERAL EXPLORATION, (Other than for petroleum) - Expenditure by type of deposit",,,,,,,,,,
+,,,,,,,,,,,
+,,,Enquiries,,,,,,,,
+,,,,,,,,,,,
+Data Item Description,,,Series Type,Series ID,Series Start,Series End,No. Obs.,Unit,Data Type,Freq.,Collection Month
+,,,,,,,,,,,
+Expenditure ;  New South Wales ;  New deposits ;  Total (List of Minerals) ;,,,Original,A2266847W,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Victoria ;  New deposits ;  Total (List of Minerals) ;,,,Original,A2266848X,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Queensland ;  New deposits ;  Total (List of Minerals) ;,,,Original,A2266849A,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  South Australia ;  New deposits ;  Total (List of Minerals) ;,,,Original,A2266850K,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Western Australia ;  New deposits ;  Total (List of Minerals) ;,,,Original,A2266851L,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Tasmania ;  New deposits ;  Total (List of Minerals) ;,,,Original,A2266852R,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Northern Territory ;  New deposits ;  Total (List of Minerals) ;,,,Original,A2266853T,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Australia ;  New deposits ;  Total (List of Minerals) ;,,,Original,A2266854V,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  New South Wales ;  Existing deposits ;  Total (List of Minerals) ;,,,Original,A2266855W,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Victoria ;  Existing deposits ;  Total (List of Minerals) ;,,,Original,A2266856X,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Queensland ;  Existing deposits ;  Total (List of Minerals) ;,,,Original,A2266857A,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  South Australia ;  Existing deposits ;  Total (List of Minerals) ;,,,Original,A2266858C,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Western Australia ;  Existing deposits ;  Total (List of Minerals) ;,,,Original,A2266859F,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Tasmania ;  Existing deposits ;  Total (List of Minerals) ;,,,Original,A2266860R,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Northern Territory ;  Existing deposits ;  Total (List of Minerals) ;,,,Original,A2266861T,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  Australia ;  Existing deposits ;  Total (List of Minerals) ;,,,Original,A2266862V,Sep-2003,Jun-2024,84,$ Millions,FLOW,Quarter,3
+Expenditure ;  New South Wales ;  Total deposits ;  Total (List of Minerals) ;,,,Original,A2266863W,Sep-1988,Jun-2024,144,$ Millions,FLOW,Quarter,3
+Expenditure ;  Victoria ;  Total deposits ;  Total (List of Minerals) ;,,,Original,A2266864X,Sep-1988,Jun-2024,144,$ Millions,FLOW,Quarter,3
+Expenditure ;  Queensland ;  Total deposits ;  Total (List of Minerals) ;,,,Original,A2266865A,Sep-1988,Jun-2024,144,$ Millions,FLOW,Quarter,3
+Expenditure ;  South Australia ;  Total deposits ;  Total (List of Minerals) ;,,,Original,A2266866C,Sep-1988,Jun-2024,144,$ Millions,FLOW,Quarter,3
+Expenditure ;  Western Australia ;  Total deposits ;  Total (List of Minerals) ;,,,Original,A2266867F,Sep-1988,Jun-2024,144,$ Millions,FLOW,Quarter,3
+Expenditure ;  Tasmania ;  Total deposits ;  Total (List of Minerals) ;,,,Original,A2266868J,Sep-1988,Jun-2024,144,$ Millions,FLOW,Quarter,3
+Expenditure ;  Northern Territory ;  Total deposits ;  Total (List of Minerals) ;,,,Original,A2266869K,Sep-1988,Jun-2024,144,$ Millions,FLOW,Quarter,3
+Expenditure ;  Australia ;  Total deposits ;  Total (List of Minerals) ;,,,Original,A2266870V,Mar-1974,Jun-2024,202,$ Millions,FLOW,Quarter,3
+,,,,,,,,,,,
+© Commonwealth of Australia  2024,,,,,,,,,,,
